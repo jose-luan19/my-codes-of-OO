@@ -1,4 +1,4 @@
-public class area {
+public class Area {
 	public static void main(String[] args) {
 		double raio = 3.2;
 		final double PI = 3.14159;
