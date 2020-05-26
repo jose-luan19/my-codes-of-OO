@@ -1,4 +1,4 @@
-public class produto {
+public class Produto {
 	String nome;
 	double preco;
 	//CONSTANTE DA CLASSE
